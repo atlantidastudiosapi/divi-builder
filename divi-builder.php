@@ -7,6 +7,7 @@
  * Author: Elegant Themes
  * Author URI: http://elegantthemes.com
  * License: GPLv2 or later
+ * GitHub Plugin URI: https://github.com/atlantidastudiosapi/divi-builder
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
